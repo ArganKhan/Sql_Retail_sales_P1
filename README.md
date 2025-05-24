@@ -26,11 +26,11 @@ This project is designed to demonstrate SQL skills and techniques typically used
 create database sql_project_1;
 create table retail_sales
        (
-		transactions_id int primary key,
-		sale_date DATE,
+            transactions_id int primary key,
+            sale_date DATE,
 	    sale_time time,
 	    customer_id	int,
-        gender varchar(15),
+            gender varchar(15),
 	    age int,
 	    category varchar(15),
 	    quantiy int,
