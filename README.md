@@ -204,6 +204,6 @@ or would like to collaborate, feel free to get in touch!
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **LinkedIn**: [Connect with me professionally](linkedin.com/in/argan-khan-a25977281)  
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/argan-khan-a25977281)  
 
 Thank you for your support, and I look forward to connecting with you!
